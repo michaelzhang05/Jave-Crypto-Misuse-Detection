@@ -1,0 +1,242 @@
+[
+    {
+        "Batch ID": 85,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.75  \n5: 0.80  \n6: 0.70  \n7: 0.90  \n8: 0.85  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 85,
+        "Document ID": 1,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.65  \n8: 0.70  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 85,
+        "Document ID": 2,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.65  \n8: 0.70  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Vulnerable\n```java\nbVar.l(\"CREATE TABLE IF NOT EXISTS `update` (`packageName` TEXT NOT NULL, `appId` INTEGER NOT NULL, `label` TEXT, `icon` TEXT, `md5` TEXT, `apkPath` TEXT, `size` INTEGER NOT NULL, `updateVersionName` TEXT, `updateVersionCode` INTEGER NOT NULL, `excluded` INTEGER NOT NULL, `trustedBadge` TEXT, `alternativeApkPath` TEXT, `storeName` TEXT, `mainObbName` TEXT, `mainObbPath` TEXT, `mainObbMd5` TEXT, `patchObbName` TEXT, `patchObbPath` TEXT, `patchObbMd5` TEXT, `roomSplits` TEXT, `requiredSplits` TEXT, `hasAppc` INTEGER NOT NULL, `downloadCampaigns` TEXT, PRIMARY KEY(`packageName`))\");\nbVar.l(\"CREATE TABLE IF NOT EXISTS `download` (`filesToDownload` TEXT, `overallDownloadStatus` INTEGER NOT NULL, `overallProgress` INTEGER NOT NULL, `md5` TEXT NOT NULL, `appName` TEXT, `Icon` TEXT, `timeStamp` INTEGER NOT NULL, `downloadSpeed` INTEGER NOT NULL, `packageName` TEXT, `versionCode` INTEGER NOT NULL, `action` INTEGER NOT NULL, `versionName` TEXT, `hasAppc` INTEGER NOT NULL, `size` INTEGER NOT NULL, `storeName` TEXT, `trustedBadge` TEXT, `downloadError` INTEGER NOT NULL, `attributionId` TEXT, PRIMARY KEY(`md5`))\");\n```",
+        "final_predictions": "Vulnerable\n5"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 1,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.80  \n8: 0.75  \n9: 0.65  \n10: 0.70  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 2,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 3,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 4,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.65  \n8: 0.70  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 5,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.80  \n8: 0.75  \n9: 0.65  \n10: 0.70  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 1,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.80  \n8: 0.75  \n9: 0.65  \n10: 0.70  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 2,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 3,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 4,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 5,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.75  \n5: 0.80  \n6: 0.70  \n7: 0.90  \n8: 0.85  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 6,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 7,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.65  \n8: 0.70  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 8,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.80  \n8: 0.75  \n9: 0.65  \n10: 0.70  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 9,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 10,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.75  \n5: 0.80  \n6: 0.70  \n7: 0.90  \n8: 0.85  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.65  \n8: 0.70  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 1,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.80  \n8: 0.75  \n9: 0.65  \n10: 0.70  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 2,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.65  \n8: 0.70  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Vulnerable\n```java\nprivate rx.e<DownloadModel> getDownloadModel(AppModel appModel) {\n    return loadDownloadModel(appModel.getMd5(), appModel.getPackageName(), appModel.getVersionCode(), appModel.getSignature(), appModel.getStore().getId(), appModel.hasAdvertising() || appModel.hasBilling());\n}\n```",
+        "final_predictions": "Vulnerable\n5"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 3,
+        "response": "Vulnerability Scores  \n1: 0.80  \n2: 0.85  \n4: 0.70  \n5: 0.90  \n6: 0.75  \n7: 0.80  \n8: 0.75  \n9: 0.65  \n10: 0.70  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 4,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 89,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.65  \n8: 0.70  \n9: 0.80  \n10: 0.75  ",
+        "AES_ECB_details": "Not Vulnerable",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    }
+]

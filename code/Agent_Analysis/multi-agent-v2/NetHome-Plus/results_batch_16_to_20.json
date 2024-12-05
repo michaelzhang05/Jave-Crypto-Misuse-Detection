@@ -1,0 +1,74 @@
+[
+    {
+        "Batch ID": 15,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 15,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 15,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 16,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 16,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 17,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 18,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 19,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 19,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 19,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 19,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 19,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    }
+]

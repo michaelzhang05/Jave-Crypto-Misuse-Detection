@@ -1,0 +1,134 @@
+[
+    {
+        "Batch ID": 170,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 5,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 5,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 6,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 2,
+        "response": "Vulnerable\n5: 0.90",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 173,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 173,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 173,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 173,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    }
+]

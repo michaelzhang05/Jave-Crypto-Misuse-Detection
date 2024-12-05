@@ -1,0 +1,142 @@
+[
+    {
+        "Batch ID:": 70,
+        "Document ID": 0,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: Trusting all certificates code snippet here...\n8: Allowing all hostnames code snippet here...\n9: SSL context code snippet here...\n10: TLSv1 context code snippet here..."
+    },
+    {
+        "Batch ID:": 70,
+        "Document ID": 1,
+        "response": "Vulnerable\n7, 8, 10\n7: TrustManagerFactory.getInstance(TrustManagerFactory.getDefaultAlgorithm(), this.provider);\n8: SSLContext.getInstance(\"TLSv1.3\", this.provider);\n10: SSLContext.getInstance(\"TLSv1.3\", this.provider);"
+    },
+    {
+        "Batch ID:": 70,
+        "Document ID": 2,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: X509TrustManager trustManager method here...\n8: Trusting all hostnames in the context of SSL/TLS here...\n9: SSL context usage in the code here...\n10: TLSv1 context usage in the code here..."
+    },
+    {
+        "Batch ID:": 70,
+        "Document ID": 3,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: TrustManager trustManager = trustManagers[0]; // Trusting all certificates\n8: Conscrypt.setHostnameVerifier(x509TrustManager, DisabledHostnameVerifier.INSTANCE); // Allowing all hostnames\n9: SSLContext sSLContext = SSLContext.getInstance(\"TLS\", this.provider); // \"SSL\" as context\n10: SSLContext sSLContext = SSLContext.getInstance(\"TLS\", this.provider); // \"TLSv1\" as context"
+    },
+    {
+        "Batch ID:": 70,
+        "Document ID": 4,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: TrustManager code snippet here...\n8: Allowing all hostnames code snippet here...\n9: SSL context code snippet here...\n10: TLSv1 context code snippet here..."
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 0,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: TrustManagerFactory trustManagerFactory = TrustManagerFactory.getInstance(TrustManagerFactory.getDefaultAlgorithm());\n8: public boolean isCleartextTrafficPermitted(String hostname) { return true; }\n9: SSLContext sSLContext = SSLContext.getInstance(\"TLS\");\n10: SSLContext sSLContext = SSLContext.getInstance(\"TLS\");"
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 1,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: X509TrustManager trustManager(SSLSocketFactory sslSocketFactory) { ... }\n8: isCleartextTrafficPermitted(String hostname) { ... }\n9: // No explicit SSL context found, but context is implied in the use of SSLSocket\n10: // No explicit TLS version found, but context is implied in the use of SSLSocket"
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 2,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: TrustManagerFactory.getInstance(\"PKIX\", \"BCJSSE\");\n8: TrustManagerFactory.getInstance(\"PKIX\", \"BCJSSE\");\n9: SSLContext.getInstance(\"TLS\", this.provider);\n10: SSLContext.getInstance(\"TLS\", this.provider);"
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 3,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: X509TrustManager trustManager(SSLSocketFactory sSLSocketFactory) { ... }\n8: return SSLSockets.isSupportedSocket(sslSocket); \n9: SSLParameters sSLParameters = sslSocket.getSSLParameters(); \n10: return Platform.INSTANCE.isAndroid() && Build.VERSION.SDK_INT >= 29;"
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 72,
+        "Document ID": 0,
+        "response": "Vulnerable\n7, 8\n7: X509TrustManagerExtensions x509TrustManagerExtensions; // Trusting all certificates\n8: this.x509TrustManagerExtensions.checkServerTrusted((X509Certificate[]) array, \"RSA\", hostname); // Allowing all hostnames"
+    },
+    {
+        "Batch ID:": 73,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 74,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 74,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 75,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 1,
+        "response": "Vulnerable\n7, 8\n7: Trusting all certificates code snippet here...\n8: Allowing all hostnames code snippet here..."
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 2,
+        "response": "Vulnerable\n7, 8\n7: X509TrustManager trustManager code snippet here...\n8: Allowing all hostnames code snippet here..."
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 3,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: Trusting all certificates code snippet here...\n8: Allowing all hostnames code snippet here...\n9: SSL context code snippet here...\n10: TLSv1 context code snippet here..."
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 77,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 77,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 78,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 78,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 78,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 78,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 79,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    }
+]

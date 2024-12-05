@@ -1,0 +1,142 @@
+[
+    {
+        "Batch ID:": 70,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 70,
+        "Document ID": 1,
+        "response": "Vulnerable\n9, 10\n9: SSLContext sSLContext = SSLContext.getInstance(\"TLSv1.3\", this.provider);\n10: SSLContext sslContext = SSLContext.getInstance(\"TLSv1.3\", this.provider);"
+    },
+    {
+        "Batch ID:": 70,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 70,
+        "Document ID": 3,
+        "response": "Vulnerable\n7, 8, 9\n7: TrustManager[] trustAllCerts = new TrustManager[] { new X509TrustManager() { public void checkClientTrusted(X509Certificate[] certs, String authType) {} public void checkServerTrusted(X509Certificate[] certs, String authType) {} public X509Certificate[] getAcceptedIssuers() { return null; } }; \n8: HttpsURLConnection.setDefaultHostnameVerifier((hostname, session) -> true);\n9: SSLContext sslContext = SSLContext.getInstance(\"SSL\");"
+    },
+    {
+        "Batch ID:": 70,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 0,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: TrustManager[] trustAllCerts = new TrustManager[] { new X509TrustManager() { public void checkClientTrusted(X509Certificate[] certs, String authType) {} public void checkServerTrusted(X509Certificate[] certs, String authType) {} public X509Certificate[] getAcceptedIssuers() { return null; } }; }\n8: HttpsURLConnection.setDefaultHostnameVerifier((hostname, session) -> true);\n9: SSLContext sslContext = SSLContext.getInstance(\"SSL\");\n10: SSLContext sslContext = SSLContext.getInstance(\"TLSv1\");"
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 2,
+        "response": "Vulnerable\n9\n9: SSLContext sslContext = SSLContext.getInstance(\"TLS\", this.provider);"
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 3,
+        "response": "Vulnerable\n7, 8, 9\n7: TrustManager[] trustAllCerts = new TrustManager[] { new X509TrustManager() { public void checkClientTrusted(X509Certificate[] certs, String authType) {} public void checkServerTrusted(X509Certificate[] certs, String authType) {} public X509Certificate[] getAcceptedIssuers() { return null; } } };\n8: HttpsURLConnection.setDefaultHostnameVerifier((hostname, session) -> true);\n9: SSLContext sslContext = SSLContext.getInstance(\"SSL\");"
+    },
+    {
+        "Batch ID:": 71,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 72,
+        "Document ID": 0,
+        "response": "Vulnerable\n7, 8\n7: TrustManager[] trustAllCerts = new TrustManager[] { new X509TrustManager() { public void checkClientTrusted(X509Certificate[] certs, String authType) {} public void checkServerTrusted(X509Certificate[] certs, String authType) {} public X509Certificate[] getAcceptedIssuers() { return null; } } };\n8: HttpsURLConnection.setDefaultHostnameVerifier((hostname, session) -> true);"
+    },
+    {
+        "Batch ID:": 73,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 74,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 74,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 75,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 76,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 77,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 77,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 78,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 78,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 78,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 78,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 79,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    }
+]

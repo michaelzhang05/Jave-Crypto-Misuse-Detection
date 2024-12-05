@@ -1,0 +1,242 @@
+[
+    {
+        "Batch ID:": 190,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 191,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 191,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 191,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 4,
+        "response": "Vulnerable\n1, 3\n1: SecretKeySpec(bArr, \"AES\")\n3: l.b(mVar, null, cVar2, cVar3, cVar4, i(), g());"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 192,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 193,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 193,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 193,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 193,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 194,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 194,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 195,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 195,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 195,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 195,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 195,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 195,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 195,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 10,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 196,
+        "Document ID": 11,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 197,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 197,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 197,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 197,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 197,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 198,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 199,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 199,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 199,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    }
+]

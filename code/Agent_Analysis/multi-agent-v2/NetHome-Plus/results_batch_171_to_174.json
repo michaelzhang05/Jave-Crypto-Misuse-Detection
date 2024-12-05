@@ -1,0 +1,135 @@
+[
+    {
+        "Batch ID": 170,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 170,
+        "Document ID": 5,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 5,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 171,
+        "Document ID": 6,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 2,
+        "response": "Vulnerable\n5: 0.90",
+        "MD5_details": "Vulnerable\n```java\ntry {\n    byte[] digest = MessageDigest.getInstance(\"MD5\").digest(str.getBytes(\"UTF-8\"));\n    StringBuilder sb = new StringBuilder(digest.length * 2);\n    for (byte b2 : digest) {\n        int i2 = b2 & 255;\n        if (i2 < 16) {\n            sb.append(\"0\");\n        }\n        sb.append(Integer.toHexString(i2));\n    }\n    return sb.toString();\n} catch (UnsupportedEncodingException e2) {\n    throw new RuntimeException(\"Huh, UTF-8 should be supported?\", e2);\n} catch (NoSuchAlgorithmException e3) {\n    throw new RuntimeException(\"Huh, MD5 should be supported?\", e3);\n}\n```",
+        "final_predictions": "Vulnerable\n5"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 172,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 173,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 173,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 173,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 173,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    }
+]

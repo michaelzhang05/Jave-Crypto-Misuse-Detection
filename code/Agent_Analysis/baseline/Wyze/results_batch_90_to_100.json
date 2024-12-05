@@ -1,0 +1,242 @@
+[
+    {
+        "Batch ID:": 90,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 91,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 92,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 93,
+        "Document ID": 0,
+        "response": "Vulnerable\n5, 6\n5: this.md5 = str2; // MD5 hashing\n6: this.md5 = str2; // MD5 hashing"
+    },
+    {
+        "Batch ID:": 93,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 93,
+        "Document ID": 2,
+        "response": "Vulnerable\n5, 6\n5: public static String computeMd5(PackageInfo packageInfo) { return computeMd5(new File(packageInfo.applicationInfo.sourceDir)); }\n6: public static String computeSha1(String str) { try { return convToHex(computeSha1(str.getBytes(\"iso-8859-1\"))); } catch (UnsupportedEncodingException e2) { Logger.getInstance().e(TAG, \"computeSha1(String)\", e2); return HttpUrl.FRAGMENT_ENCODE_SET; } }"
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 1,
+        "response": "Vulnerable\n6\n6: AptoideUtils.AlgorithmU.computeSha1(url);"
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 3,
+        "response": "Vulnerable\n6\n6: SHA1 hashing code snippet here..."
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 94,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 95,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 95,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 95,
+        "Document ID": 2,
+        "response": "Vulnerable\n6\n6: storePassSha1 = storeCredentials.getPasswordSha1();"
+    },
+    {
+        "Batch ID:": 95,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 95,
+        "Document ID": 4,
+        "response": "Vulnerable\n6\n6: SHA1 hashing code snippet here..."
+    },
+    {
+        "Batch ID:": 95,
+        "Document ID": 5,
+        "response": "Vulnerable\n5, 6\n5: put(\"aptoide_md5sum\", baseBody.getAptoideMd5sum(), map);\n6: put(\"store_pass_sha1\", baseBodyWithApp.getStorePassSha1(), map);"
+    },
+    {
+        "Batch ID:": 96,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 96,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 96,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 96,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 96,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 97,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 97,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 97,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 97,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 98,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 98,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 98,
+        "Document ID": 2,
+        "response": "Vulnerable\n5\n5: String md5; // MD5 hashing is used here."
+    },
+    {
+        "Batch ID:": 98,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 98,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 99,
+        "Document ID": 0,
+        "response": "Vulnerable\n5\n5: String md5 = str7; // MD5 hashing code snippet here..."
+    },
+    {
+        "Batch ID:": 99,
+        "Document ID": 1,
+        "response": "Vulnerable\n5\n5: String md5sum;"
+    },
+    {
+        "Batch ID:": 99,
+        "Document ID": 2,
+        "response": "Vulnerable\n5, 6\n5: String md5; // MD5 hashing\n6: String md5; // MD5 hashing"
+    }
+]

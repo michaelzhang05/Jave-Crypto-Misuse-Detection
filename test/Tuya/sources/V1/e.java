@@ -1,0 +1,79 @@
+package V1;
+
+/* loaded from: classes4.dex */
+public class e extends Exception {
+
+    /* renamed from: a, reason: collision with root package name */
+    private int f11883a;
+
+    /* renamed from: b, reason: collision with root package name */
+    private Object f11884b;
+
+    /* renamed from: c, reason: collision with root package name */
+    private int f11885c;
+
+    public e(int i8, int i9, Object obj) {
+        super(a(i8, i9, obj));
+        this.f11885c = i8;
+        this.f11883a = i9;
+        this.f11884b = obj;
+    }
+
+    private static String a(int i8, int i9, Object obj) {
+        StringBuilder sb = new StringBuilder();
+        if (i9 == 0) {
+            sb.append("Unexpected character (");
+            sb.append(obj);
+            sb.append(") at position ");
+            sb.append(i8);
+            sb.append(".");
+        } else if (i9 == 1) {
+            sb.append("Unexpected token ");
+            sb.append(obj);
+            sb.append(" at position ");
+            sb.append(i8);
+            sb.append(".");
+        } else if (i9 == 2) {
+            sb.append("Unexpected exception ");
+            sb.append(obj);
+            sb.append(" occur at position ");
+            sb.append(i8);
+            sb.append(".");
+        } else if (i9 == 3) {
+            sb.append("Unexpected End Of File position ");
+            sb.append(i8);
+            sb.append(": ");
+            sb.append(obj);
+        } else if (i9 == 4) {
+            sb.append("Unexpected unicode escape sequence ");
+            sb.append(obj);
+            sb.append(" at position ");
+            sb.append(i8);
+            sb.append(".");
+        } else if (i9 == 5) {
+            sb.append("Unexpected duplicate key:");
+            sb.append(obj);
+            sb.append(" at position ");
+            sb.append(i8);
+            sb.append(".");
+        } else if (i9 == 6) {
+            sb.append("Unexpected leading 0 in digit for token:");
+            sb.append(obj);
+            sb.append(" at position ");
+            sb.append(i8);
+            sb.append(".");
+        } else {
+            sb.append("Unkown error at position ");
+            sb.append(i8);
+            sb.append(".");
+        }
+        return sb.toString();
+    }
+
+    public e(int i8, Throwable th) {
+        super(a(i8, 2, th), th);
+        this.f11885c = i8;
+        this.f11883a = 2;
+        this.f11884b = th;
+    }
+}

@@ -1,0 +1,90 @@
+[
+    {
+        "Batch ID": 365,
+        "Document ID": 0,
+        "response": "Vulnerable\n5: 0.90\n6: 0.85",
+        "MD5_details": "Not Vulnerable",
+        "SHA1_details": "Vulnerable\n```java\nprivate String d() {\n    try {\n        return b(MessageDigest.getInstance(\"SHA-1\").digest(this.f18334a.m().getBytes()));\n    } catch (NoSuchAlgorithmException unused) {\n        return \"[HASH-ERROR]\";\n    }\n}\n```",
+        "final_predictions": "Vulnerable\n6"
+    },
+    {
+        "Batch ID": 365,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 365,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 365,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 365,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 365,
+        "Document ID": 5,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 366,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 366,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 366,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 367,
+        "Document ID": 0,
+        "response": "Vulnerable\n5: 0.90\n6: 0.85",
+        "MD5_details": "Vulnerable\n```java\n    /* JADX INFO: Access modifiers changed from: package-private */\n    public final long A(byte[] bArr) {\n        AbstractC1400p.l(bArr);\n        h().k();\n        MessageDigest V02 = a6.V0();\n        if (V02 == null) {\n            c().G().a(\"Failed to get MD5\");\n            return 0L;\n        }\n        return a6.B(V02.digest(bArr));\n    }\n```",
+        "SHA1_details": "Not Vulnerable",
+        "final_predictions": "Vulnerable\n5"
+    },
+    {
+        "Batch ID": 368,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 368,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 368,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 369,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Batch ID:": 20,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 20,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 21,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 22,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 23,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 24,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 26,
+        "Document ID": 0,
+        "response": "Vulnerable\n1, 2, 3, 5, 6, 7, 8, 9, 10\n1: Cipher cipher = Cipher.getInstance(\"AES\");\n2: Cipher cipher = Cipher.getInstance(\"AES/ECB/PKCS5Padding\");\n3: Cipher cipher = Cipher.getInstance(\"AES/CBC/PKCS5Padding\");\n5: MessageDigest md = MessageDigest.getInstance(\"MD5\");\n6: MessageDigest sha1 = MessageDigest.getInstance(\"SHA1\");\n7: TrustManager[] trustAllCerts = new TrustManager[] {\n            new X509TrustManager() {\n                public void checkClientTrusted(X509Certificate[] certs, String authType) {}\n                public void checkServerTrusted(X509Certificate[] certs, String authType) {}\n                public X509Certificate[] getAcceptedIssuers() { return null; }\n            }\n        };\n8: HttpsURLConnection.setDefaultHostnameVerifier((hostname, session) -> true);\n9: SSLContext sslContext = SSLContext.getInstance(\"SSL\");\n10: SSLContext sslContext = SSLContext.getInstance(\"TLSv1\");"
+    },
+    {
+        "Batch ID:": 27,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 28,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 28,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 28,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 29,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    }
+]

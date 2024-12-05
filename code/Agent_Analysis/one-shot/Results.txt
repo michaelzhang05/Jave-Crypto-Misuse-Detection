@@ -1,0 +1,19 @@
+Metrics:
+Accuracy: 0.73
+Precision: 0.73
+Recall: 0.73
+F1: 0.72
+Calculating FPR and FNR...
+FPR: 0.13, FNR: 0.49
+ROC-AUC: 0.69
+
+
+Raw:
+Metrics:
+Accuracy: 0.47
+Precision: 0.78
+Recall: 0.47
+F1: 0.37
+Calculating FPR and FNR...
+FPR: 0.87, FNR: 0.00
+ROC-AUC: 0.56

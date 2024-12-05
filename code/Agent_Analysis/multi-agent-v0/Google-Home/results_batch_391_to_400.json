@@ -1,0 +1,93 @@
+[
+    {
+        "Batch ID": 390,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.65  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 390,
+        "Document ID": 1,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 391,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.80  \n2: 0.85  \n4: 0.70  \n5: 0.90  \n6: 0.75  \n7: 0.80  \n8: 0.75  \n9: 0.65  \n10: 0.70  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 392,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.65  \n8: 0.70  \n9: 0.80  \n10: 0.75  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 393,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 394,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 395,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.65  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 396,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.80  \n8: 0.75  \n9: 0.65  \n10: 0.70  ",
+        "MD5_details": "Vulnerable\n```java\nMessageDigest md = MessageDigest.getInstance(\"MD5\");\n```\n```java\nMessageDigest md = MessageDigest.getInstance(\"MD5\");\n```\n```java\nMessageDigest md = MessageDigest.getInstance(\"MD5\");\n```\n```java\nMessageDigest md = MessageDigest.getInstance(String.valueOf(crypto));\n```",
+        "final_predictions": "Vulnerable\n5"
+    },
+    {
+        "Batch ID": 397,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.65  \n8: 0.70  \n9: 0.80  \n10: 0.75  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 398,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 398,
+        "Document ID": 1,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 398,
+        "Document ID": 2,
+        "response": "Vulnerability Scores  \n1: 0.80  \n2: 0.85  \n4: 0.70  \n5: 0.90  \n6: 0.75  \n7: 0.80  \n8: 0.75  \n9: 0.65  \n10: 0.70  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 399,
+        "Document ID": 0,
+        "response": "Vulnerability Scores  \n1: 0.70  \n2: 0.85  \n3: 0.60  \n4: 0.80  \n5: 0.90  \n6: 0.75  \n7: 0.85  \n8: 0.80  \n9: 0.70  \n10: 0.75  ",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    }
+]

@@ -1,0 +1,168 @@
+[
+    {
+        "Batch ID": 85,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 85,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 85,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 86,
+        "Document ID": 5,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 1,
+        "response": "Vulnerable\n5: 0.90",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 2,
+        "response": "Vulnerable\n1: 0.80\n5: 0.90\n6: 0.85\n7: 0.95\n8: 0.95\n9: 0.90\n10: 0.90",
+        "MD5_details": "Not Vulnerable",
+        "SHA1_details": "Vulnerable\n```java\nput(\"SecureRandom.SHA1PRNG\", LinuxPRNGSecureRandom.class.getName());\nput(\"SecureRandom.SHA1PRNG ImplementedIn\", \"Software\");\nSecureRandom secureRandom2 = SecureRandom.getInstance(\"SHA1PRNG\");\n```",
+        "Trust_All_Certificates_details": "Predicted based on planner confidence",
+        "Allow_All_Hostnames_details": "Predicted based on planner confidence",
+        "final_predictions": "Vulnerable\n6, 7, 8"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 5,
+        "response": "Vulnerable\n1: 0.85\n2: 0.90\n3: 0.80\n4: 0.95\n5: 0.70\n6: 0.60\n7: 0.90\n8: 0.90\n9: 0.85\n10: 0.80",
+        "AES_ECB_details": "Not Vulnerable",
+        "No_CleanPassword_details": "Predicted based on planner confidence",
+        "Trust_All_Certificates_details": "Not Vulnerable",
+        "Allow_All_Hostnames_details": "Not Vulnerable",
+        "final_predictions": "Vulnerable\n4"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 6,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 7,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 8,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 9,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 87,
+        "Document ID": 10,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 88,
+        "Document ID": 4,
+        "response": "Vulnerable\n5: 0.90",
+        "MD5_details": "Not Vulnerable",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 89,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    }
+]

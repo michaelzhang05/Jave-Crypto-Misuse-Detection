@@ -1,0 +1,267 @@
+[
+    {
+        "Batch ID:": 280,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 281,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 281,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 282,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 282,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 283,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 283,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 283,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 284,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 284,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 284,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 284,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 284,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 285,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 285,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 285,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 286,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 286,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 287,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 287,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 287,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 287,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 287,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 287,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 287,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 10,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 11,
+        "response": "Vulnerable\n2\n2: Cipher a8 = i.a(\"RSA/ECB/PKCS1Padding\", provider);"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 12,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 13,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 14,
+        "response": "Vulnerable\n3\n3: Cipher a8 = i.a(\"AES/CBC/PKCS5Padding\", provider);"
+    },
+    {
+        "Batch ID:": 288,
+        "Document ID": 15,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 5,
+        "response": "Vulnerable\n5, 6\n5: MessageDigest md = MessageDigest.getInstance(\"MD5\");\n6: MessageDigest sha1 = MessageDigest.getInstance(\"SHA1\");"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 6,
+        "response": "Vulnerable\n5, 6\n5: MessageDigest.getInstance(\"MD5\");\n6: MessageDigest.getInstance(\"SHA1\");"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 8,
+        "response": "Vulnerable\n1, 3\n1: SecretKeySpec secretKeySpec = new SecretKeySpec(bArr, \"AES\");\n3: Cipher cipher = Cipher.getInstance(\"AES/CBC/PKCS5Padding\");"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 9,
+        "response": "Vulnerable\n2\n2: Cipher a8 = i.a(\"RSA/ECB/OAEPWithSHA-1AndMGF1Padding\", provider);"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 10,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 289,
+        "Document ID": 11,
+        "response": "None Vulnerability Found"
+    }
+]

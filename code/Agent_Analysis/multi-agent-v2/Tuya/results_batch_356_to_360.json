@@ -1,0 +1,86 @@
+[
+    {
+        "Batch ID": 355,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 356,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 357,
+        "Document ID": 0,
+        "response": "Vulnerable\n1: 0.80\n2: 0.90\n3: 0.85\n4: 0.95\n5: 0.90\n6: 0.85\n7: 0.90\n8: 0.90\n9: 0.80\n10: 0.80",
+        "AES_ECB_details": "Not Vulnerable",
+        "No_CleanPassword_details": "Predicted based on planner confidence",
+        "MD5_details": "Not Vulnerable",
+        "SHA1_details": "Not Vulnerable",
+        "Trust_All_Certificates_details": "Vulnerable\n```java\npublic class a {\n    // ...\n    private void a(int i8, int i9, int i10) {\n        this.f21551A = i8;\n        this.f21552B = i9;\n        if (i9 == com.mbridge.msdk.foundation.same.a.f19399J) {\n            this.f21553C = i10 < 0 ? 5 : i10;\n        }\n        if (i9 == com.mbridge.msdk.foundation.same.a.f19398I) {\n            this.f21553C = i10 < 0 ? 80 : i10;\n        }\n        // ...\n    }\n    // ...\n    private void a(boolean z8, com.mbridge.msdk.foundation.same.report.d.b bVar) {\n        if (this.f21587q != null) {\n            if (!this.f21555E) {\n                this.f21573Y = c(this.f21589s, bVar.f());\n                if (this.f21573Y) {\n                    if (!s()) {\n                        CopyOnWriteArrayList<CampaignEx> copyOnWriteArrayList = this.f21574Z;\n                        if (copyOnWriteArrayList == null || copyOnWriteArrayList.size() <= 0) {\n                            return;\n                        }\n                        // ...\n                    }\n                    // ...\n                }\n                // ...\n            }\n            // ...\n        }\n    }\n    // ...\n}\n```",
+        "Allow_All_Hostnames_details": "Vulnerable\n```java\npublic boolean verify(String s, SSLSession sslSession) {\n    return true;\n}\n```",
+        "final_predictions": "Vulnerable\n4, 7, 8"
+    },
+    {
+        "Batch ID": 358,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 358,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 359,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 359,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 359,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 359,
+        "Document ID": 3,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 359,
+        "Document ID": 4,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 359,
+        "Document ID": 5,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 359,
+        "Document ID": 6,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 359,
+        "Document ID": 7,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "Batch ID:": 60,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 61,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 61,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 61,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 61,
+        "Document ID": 3,
+        "response": "Vulnerable\n5, 6, 7, 9, 10\n5: MD5 hashing code snippet here...\n6: SHA1 hashing code snippet here...\n7: Trusting all certificates code snippet here...\n9: SSL context code snippet here...\n10: TLSv1 context code snippet here..."
+    },
+    {
+        "Batch ID:": 62,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 62,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 63,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 64,
+        "Document ID": 0,
+        "response": "Vulnerable  \n2, 9, 10  \n2: TLS_DHE_DSS_WITH_AES_128_CBC_SHA code snippet here...  \n9: TLS_RSA_WITH_NULL_MD5 code snippet here...  \n10: TLS_RSA_WITH_3DES_EDE_CBC_SHA code snippet here...  "
+    },
+    {
+        "Batch ID:": 65,
+        "Document ID": 0,
+        "response": "Vulnerable\n3, 9, 10\n3: CipherSuite.TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, CipherSuite.TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, CipherSuite.TLS_RSA_WITH_AES_128_CBC_SHA, CipherSuite.TLS_RSA_WITH_AES_256_CBC_SHA code snippet here...\n9: \"SSL\" as context code snippet here...\n10: \"TLSv1\" as context code snippet here..."
+    },
+    {
+        "Batch ID:": 65,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 65,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 65,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 65,
+        "Document ID": 4,
+        "response": "Vulnerable\n7, 9, 10\n7: Trusting all certificates code snippet here...\n9: \"SSL\" as context code snippet here...\n10: \"TLSv1\" as context code snippet here..."
+    },
+    {
+        "Batch ID:": 66,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 67,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 67,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 68,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 69,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 69,
+        "Document ID": 1,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: Trusting all certificates code snippet here...\n8: Allowing all hostnames code snippet here...\n9: \"SSL\" as context code snippet here...\n10: \"TLSv1\" as context code snippet here..."
+    },
+    {
+        "Batch ID:": 69,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 69,
+        "Document ID": 3,
+        "response": "Vulnerable\n7, 8\n7: Trusting all certificates code snippet here...\n8: Allowing all hostnames code snippet here..."
+    }
+]

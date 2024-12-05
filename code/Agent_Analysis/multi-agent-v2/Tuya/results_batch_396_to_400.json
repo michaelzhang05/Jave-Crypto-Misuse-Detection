@@ -1,0 +1,43 @@
+[
+    {
+        "Batch ID": 395,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 397,
+        "Document ID": 0,
+        "response": "Vulnerable\n1: 0.90\n2: 0.95\n3: 0.85\n4: 0.80\n5: 0.90\n6: 0.85\n7: 0.90\n8: 0.90\n9: 0.80\n10: 0.80",
+        "AES_ECB_details": "Predicted based on planner confidence",
+        "MD5_details": "Not Vulnerable",
+        "SHA1_details": "Vulnerable\n```java\nMessageDigest md = MessageDigest.getInstance(\"SHA1\");\n```\n```java\nCryptoHash1 crypto = new CryptoHash1(\"SHA1\");\n```\n```java\npublic static final String DEFAULT_CRYPTO = \"SHA1\";\n```\n```java\nString crypto = \"SHA1\";\n```",
+        "Trust_All_Certificates_details": "Vulnerable\n```java\npublic class DummyCertValidationCase1 implements X509TrustManager {\n    private X509TrustManager trustManager;\n    @Override\n    public void checkClientTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {\n        //Trust any client connecting (no certificate validation)\n        trustManager.checkClientTrusted(x509Certificates,s);\n    }\n\n    @Override\n    public void checkServerTrusted(X509Certificate[] x509Certificates, String s) throws CertificateException {\n        //Trust any remote server (no certificate validation)\n    }\n\n    @Override\n    public X509Certificate[] getAcceptedIssuers() {\n        //return null;\n        return new X509Certificate[0];\n    }\n}\n```",
+        "Allow_All_Hostnames_details": "Vulnerable\n```java\npublic boolean verify(String s, SSLSession sslSession) {\n    return true;\n}\n```",
+        "final_predictions": "Vulnerable\n2, 6, 7, 8"
+    },
+    {
+        "Batch ID": 398,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 399,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 399,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 399,
+        "Document ID": 2,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    }
+]

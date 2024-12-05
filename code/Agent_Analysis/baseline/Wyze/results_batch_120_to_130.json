@@ -1,0 +1,577 @@
+[
+    {
+        "Batch ID:": 120,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 120,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 121,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 121,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 10,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 11,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 12,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 13,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 14,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 15,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 16,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 17,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 122,
+        "Document ID": 18,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 123,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 123,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 123,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 123,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 123,
+        "Document ID": 4,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: this.a = (SSLSocketFactory) SSLSocketFactory.getDefault();\n8: this.a.createSocket(socket, str, i2, z);\n9: this.a.createSocket(str, i2);\n10: this.a.createSocket(str, i2, inetAddress, i3);"
+    },
+    {
+        "Batch ID:": 123,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 123,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 10,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 124,
+        "Document ID": 11,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 125,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 125,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 125,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 125,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 125,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 125,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 125,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 10,
+        "response": "Vulnerable\n7, 8\n7: sslErrorHandler code snippet here...\n8: sslError.getUrl() code snippet here..."
+    },
+    {
+        "Batch ID:": 126,
+        "Document ID": 11,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 0,
+        "response": "Vulnerable\n5\n5: MessageDigest.getInstance(\"MD5\")"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 7,
+        "response": "Vulnerable\n2\n2: Cipher b() code snippet here: return zzdkx.f14783c.b(\"AES/ECB/NoPadding\");"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 10,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 11,
+        "response": "Vulnerable\n7, 8, 9, 10\n7: SSLSocketFactory sSLSocketFactory = ...; // Trusting all certificates\n8: SSLSocketFactory sSLSocketFactory = ...; // Allowing all hostnames\n9: SSL context code snippet here...\n10: TLSv1 context code snippet here..."
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 12,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 13,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 14,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 15,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 16,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 17,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 18,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 19,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 127,
+        "Document ID": 20,
+        "response": "Vulnerable\n2, 3\n2: a() method: Cipher.getInstance(\"AES/CBC/PKCS5Padding\");\n3: a() method: Cipher.getInstance(\"AES/CBC/PKCS5Padding\");"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 5,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 8,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 10,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 11,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 12,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 13,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 128,
+        "Document ID": 14,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 0,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 1,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 2,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 3,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 4,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 5,
+        "response": "Vulnerable\n6, 7, 9\n6: HmacSha1 code snippet here...\n7: Trusting all certificates code snippet here...\n9: SSL context code snippet here..."
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 6,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 7,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 8,
+        "response": "Vulnerable\n5, 6\n5: MessageDigest messageDigest = MessageDigest.getInstance(\"MD5\");\n6: MessageDigest messageDigest = MessageDigest.getInstance(\"SHA1\");"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 9,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 10,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 11,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 12,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 13,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 14,
+        "response": "Vulnerable\n1, 2, 9\n1: this.a = new SecretKeySpec(bArr, \"AES\");\n2: Cipher b2 = zzdkx.f14783c.b(\"AES/CTR/NoPadding\");\n9: b2.init(1, this.a, new IvParameterSpec(bArr3));"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 15,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 16,
+        "response": "None Vulnerability Found"
+    },
+    {
+        "Batch ID:": 129,
+        "Document ID": 17,
+        "response": "None Vulnerability Found"
+    }
+]

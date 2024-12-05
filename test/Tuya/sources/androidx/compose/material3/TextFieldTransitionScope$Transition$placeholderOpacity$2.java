@@ -1,0 +1,51 @@
+package androidx.compose.material3;
+
+import X5.o;
+import androidx.compose.animation.core.AnimationSpecKt;
+import androidx.compose.animation.core.EasingKt;
+import androidx.compose.animation.core.FiniteAnimationSpec;
+import androidx.compose.animation.core.Transition;
+import androidx.compose.runtime.Composable;
+import androidx.compose.runtime.Composer;
+import androidx.compose.runtime.ComposerKt;
+import kotlin.jvm.internal.AbstractC3159y;
+import kotlin.jvm.internal.AbstractC3160z;
+
+/* JADX INFO: Access modifiers changed from: package-private */
+/* loaded from: classes.dex */
+public final class TextFieldTransitionScope$Transition$placeholderOpacity$2 extends AbstractC3160z implements o {
+    public static final TextFieldTransitionScope$Transition$placeholderOpacity$2 INSTANCE = new TextFieldTransitionScope$Transition$placeholderOpacity$2();
+
+    TextFieldTransitionScope$Transition$placeholderOpacity$2() {
+        super(3);
+    }
+
+    @Override // X5.o
+    public /* bridge */ /* synthetic */ Object invoke(Object obj, Object obj2, Object obj3) {
+        return invoke((Transition.Segment<InputPhase>) obj, (Composer) obj2, ((Number) obj3).intValue());
+    }
+
+    @Composable
+    public final FiniteAnimationSpec<Float> invoke(Transition.Segment<InputPhase> animateFloat, Composer composer, int i8) {
+        FiniteAnimationSpec<Float> tween;
+        AbstractC3159y.i(animateFloat, "$this$animateFloat");
+        composer.startReplaceableGroup(1721367864);
+        if (ComposerKt.isTraceInProgress()) {
+            ComposerKt.traceEventStart(1721367864, i8, -1, "androidx.compose.material3.TextFieldTransitionScope.Transition.<anonymous> (TextFieldImpl.kt:286)");
+        }
+        InputPhase inputPhase = InputPhase.Focused;
+        InputPhase inputPhase2 = InputPhase.UnfocusedEmpty;
+        if (animateFloat.isTransitioningTo(inputPhase, inputPhase2)) {
+            tween = AnimationSpecKt.tween$default(67, 0, EasingKt.getLinearEasing(), 2, null);
+        } else if (!animateFloat.isTransitioningTo(inputPhase2, inputPhase) && !animateFloat.isTransitioningTo(InputPhase.UnfocusedNotEmpty, inputPhase2)) {
+            tween = AnimationSpecKt.spring$default(0.0f, 0.0f, null, 7, null);
+        } else {
+            tween = AnimationSpecKt.tween(83, 67, EasingKt.getLinearEasing());
+        }
+        if (ComposerKt.isTraceInProgress()) {
+            ComposerKt.traceEventEnd();
+        }
+        composer.endReplaceableGroup();
+        return tween;
+    }
+}

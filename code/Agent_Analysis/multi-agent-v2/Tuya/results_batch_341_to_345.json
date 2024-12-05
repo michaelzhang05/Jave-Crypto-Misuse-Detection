@@ -1,0 +1,64 @@
+[
+    {
+        "Batch ID": 340,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 340,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 340,
+        "Document ID": 2,
+        "response": "Vulnerable\n3: 0.85\n9: 0.70\n10: 0.70",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 340,
+        "Document ID": 3,
+        "response": "Vulnerable\n5: 0.90",
+        "MD5_details": "Vulnerable\n\n```java\nf19968b = MessageDigest.getInstance(SameMD5.TAG);\n```\n\n```java\nmessageDigest = MessageDigest.getInstance(SameMD5.TAG);\n```",
+        "final_predictions": "Vulnerable\n5"
+    },
+    {
+        "Batch ID": 341,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 342,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 342,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 343,
+        "Document ID": 0,
+        "response": "Vulnerable\n5: 0.90",
+        "MD5_details": "Vulnerable\n\n```java\nMessageDigest messageDigest = MessageDigest.getInstance(TAG);\nmessageDigest.update(str.getBytes());\n```\n\n```java\nMessageDigest messageDigest = MessageDigest.getInstance(TAG);\nmessageDigest.update(qftJSMD5Bytes);\n```\n\n```java\nMessageDigest messageDigest = MessageDigest.getInstance(TAG);\nmessageDigest.update(str.getBytes());\n```\n\n```java\nMessageDigest messageDigest = MessageDigest.getInstance(TAG);\nmessageDigest.update(str.getBytes());\n```",
+        "final_predictions": "Vulnerable\n5"
+    },
+    {
+        "Batch ID": 343,
+        "Document ID": 1,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    },
+    {
+        "Batch ID": 344,
+        "Document ID": 0,
+        "response": "None Vulnerability Found",
+        "final_predictions": "None Vulnerability Found"
+    }
+]
